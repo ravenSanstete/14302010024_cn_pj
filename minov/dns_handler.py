@@ -6,7 +6,7 @@ import os
 
 
 
-DNS_IP='218.4.4.4';
+DNS_IP='202.120.224.26';
 DNS_PORT=53;
 BUF_SIZE=1024;
 
